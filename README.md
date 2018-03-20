@@ -1,2 +1,7 @@
 # Twitter-Chrome-Client-mini
-ChromeブラウザでモバイルのTwitterを子ウィンドウで表示させるアプリ。
+MacのChromeブラウザでモバイルのTwitterを子ウィンドウで表示させるアプリ。
+
+## Install
+
+Twitter.appをアプリケーションディレクトリにコピー。
+
